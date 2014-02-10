@@ -3,6 +3,7 @@ package com.jaramillo;
 /**
  * Designed by Cristian Omar Jaramillo Mendez
  * Visit https://github.com/CristianJaramillo/TestInteligencia for more Graphics Freebies
+ * ~~https://twitter.com/CristianOmarJar~~
 **/
 
 import net.junian.kodefun.fbapp.R;
@@ -81,7 +82,7 @@ public class Test extends Activity implements LoginListener {
     		r.setText("D.F.");
     		v.setText("Guadalajara");
     		j.setText("Moscu");
-        	p1.setText("Cual es la capital de México");
+        	p1.setText("Cual es la capital de Mï¿½xico");
 		}
         else if(i==2){
         	if (r.isChecked()) {
@@ -92,7 +93,7 @@ public class Test extends Activity implements LoginListener {
     		r.setText("Vicente Fox");
     		v.setText("Felipe Calderon");
     		j.setText("EPN");
-        	p1.setText("Come se llama el presidente de México");
+        	p1.setText("Come se llama el presidente de Mï¿½xico");
 		}
         else if(i==3){
         	if (j.isChecked()) {
@@ -155,10 +156,10 @@ public class Test extends Activity implements LoginListener {
 				++cont;
 			}			 
         	i++; 
-    		r.setText("México");
+    		r.setText("Mï¿½xico");
     		v.setText("Guatemala");
     		j.setText("OK");
-        	p1.setText("ENRIQUE PEÑA NIETO ES DE:");
+        	p1.setText("ENRIQUE PEï¿½A NIETO ES DE:");
 		}
         else if(i==9){
         	if (r.isChecked()) {
