@@ -82,7 +82,7 @@ public class Test extends Activity implements LoginListener {
     		r.setText("D.F.");
     		v.setText("Guadalajara");
     		j.setText("Moscu");
-        	p1.setText("Cual es la capital de M�xico");
+        	p1.setText("Cual es la capital de Mexico");
 		}
         else if(i==2){
         	if (r.isChecked()) {
@@ -93,7 +93,7 @@ public class Test extends Activity implements LoginListener {
     		r.setText("Vicente Fox");
     		v.setText("Felipe Calderon");
     		j.setText("EPN");
-        	p1.setText("Come se llama el presidente de M�xico");
+        	p1.setText("Come se llama el presidente de Mexico");
 		}
         else if(i==3){
         	if (j.isChecked()) {
@@ -156,10 +156,10 @@ public class Test extends Activity implements LoginListener {
 				++cont;
 			}			 
         	i++; 
-    		r.setText("M�xico");
+    		r.setText("Mexico");
     		v.setText("Guatemala");
     		j.setText("OK");
-        	p1.setText("ENRIQUE PE�A NIETO ES DE:");
+        	p1.setText("ENRIQUE PEÑA NIETO ES DE:");
 		}
         else if(i==9){
         	if (r.isChecked()) {
