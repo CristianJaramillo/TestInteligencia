@@ -1,5 +1,10 @@
 package com.jaramillo;
 
+/**
+ * Designed by Cristian Omar Jaramillo Mendez
+ * Visit https://github.com/CristianJaramillo/TestInteligencia for more Graphics Freebies
+**/
+
 import net.junian.kodefun.fbapp.R;
 import com.easy.facebook.android.apicall.GraphApi;
 import com.easy.facebook.android.data.User;
